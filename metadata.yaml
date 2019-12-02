@@ -1,0 +1,31 @@
+_repo: The-Seven-Sisters-of-Sleep-Popular-History-of-the-Seven-Prevailing-Narcotics-of-the-World_60805
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooke, M. C. (Mordecai Cubitt)
+    alias: Cooke, Mordecai Cubitt
+    birthdate: 1825
+    deathdate: 1914
+    gutenberg_agent_id: '34419'
+    url: http://www.gutenberg.org/2009/agents/34419
+    wikipedia: http://en.wikipedia.org/wiki/Mordecai_Cubitt_Cooke
+description: ''
+gutenberg_issued: '2019-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60805'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychotropic plants'
+- !lcsh 'Narcotics'
+- !lcsh 'Psychotropic drugs'
+- !lcc 'GT'
+- !lcsh 'Drug abuse'
+- !lcsh 'Tobacco use'
+- GITenberg
+title: "The Seven Sisters of Sleep\r\nPopular History of the Seven Prevailing Narcotics\
+  \ of the World"
+url: http://www.gutenberg.org/ebooks/60805
